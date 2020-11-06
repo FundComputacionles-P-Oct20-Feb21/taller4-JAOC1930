@@ -1,0 +1,28 @@
+Algoritmo 2
+1_ Inicio
+2_ Gastos del hijo1
+3_ Gastos del hijo2
+4_ Gastos del hijo3
+5_ Calcular hijo1 + hijo2 + hijo3
+6_ Presentar gatos de sus tres hijos
+7_ Fin
+
+Miniespecificación
+1_ Inicio
+// declaro las variables
+2_ Hijo1, d[0, n]
+3_ hijo2, d[0, n]
+4_ hijo3, d[0, n]
+5_ total, d[0, n]
+// pidos datos por teclado - entradas
+6_ Escribir "Ingrese el gasto de hijo1"
+7_ Leer hijo1
+8_ Escribir "Ingrese el gasto de hijo2"
+9_ Leer hijo2
+10_ Escribir "Ingrese gastos de hijo3"
+11_ Leer hijo3
+// proceso
+12_ total <-- hijo1 + hijo2 + hijo3
+//Salida
+13_ Escribir "El gasto total de los tres hijos es:"+ total
+14_ Fin  

@@ -1,0 +1,24 @@
+Algoritmo 3
+1_ Inicio
+2_ Ingresar costo por minuto
+3_ Ingresar el numero de minutos consumidos 
+4_ Calcular costo de minuto * numero de minutos consumidos 
+5_ Presentar el costo total de fin de mes 
+6_ fin
+
+Miniespecificación
+1_ Inicio
+// declarar variables
+2_ cminutos, d[0, n]
+3_ mconsumidos d[0, n]
+4_ total, d{0, n]
+// pido datos por teclado - entrada
+5_ Escribir "Ingrese el costos por minutos"
+6_ Leer cminutos
+7 Escribir "Ingrese Minutos consumidos"
+8_ Leer mconsumidos
+// proceso
+9_ total <-- cminutos * mconsumidos
+// salida
+10_ Escribir "El costo total al mes es:"+ total
+11_ Fin  

@@ -1,0 +1,25 @@
+Algoritmo 5
+
+1_ Inicio
+2_ Se pide ingresar el monto del préstamo.
+3_ Se pide ingresar el interés mensual a cobrar.
+4_Se divide el monto del prestamo para 12.
+5_ Se suma al monto mensual el interes a pagar
+6_ Se muestra en pantalla el valor total a pagar mensualmente. 
+5_ Fin
+
+Miniespecificación
+1_ Inicio 
+// Declarar variables
+2_ mPrestamo, d[0, n]
+3_ interesMensual, [0,n]
+4_ total, [0, n]
+// pido datos por teclado
+5_ Escribir "Ingresar el monto del prestamo
+6_ Leer mPrestamo
+7_ Escribir "Ingresar el interes mensual"
+// proceso
+8_ total <-- (mPrestamo/12)+interesMensual
+// salida
+9_ Ecribir "El costo total al mes es:"+total
+10_ Fin 

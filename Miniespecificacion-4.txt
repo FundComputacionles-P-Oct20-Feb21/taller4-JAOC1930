@@ -1,0 +1,33 @@
+Algoritmo 4
+
+1_ Inicio 
+2_ Precio del CPU 
+3_ Precio del teclado
+4_ Precio de la pantalla 
+5_ Precio del ratón
+6_ Calcular precios (CPU + reclado + pantalla + ratón)
+7_ Presentar precio total
+8_ Fin
+
+Miniespecificación
+1_ Inicio 
+// Declarar variables
+2_ pcpu, d[0, n]
+3_ pteclado, d[0, n]
+4_ ppantalla, d[0, n]
+5_ praton, d[0, n]
+6_ total, d{0, n]
+// pido datos por teclado - entrada
+7_ Escribir "Ingrese el precio del CPU"
+8_ Leer pcpu
+9_ Escribir "Ingrese el precio del teclado"
+10_ Leer pteclado"
+11_ Escribir "Ingrese el precio del pantalla"
+12_ Leer ppantalla 
+13_ Escribir "Ingrese el precio del raton"
+14_ Leer praton
+// proceso
+15_ total <-- pcpu + pteclado + ppantalla + praton
+// Salida
+16_ Escribir "El total es:"+ total
+17_ Fin
